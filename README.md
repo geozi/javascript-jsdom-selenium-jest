@@ -19,7 +19,7 @@ To run the tests, the following will be needed:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,javascript,nodejs,jest&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=vscode,javascript,nodejs,selenium,jest&theme=light"/>
 	 
   </a>
 </p>
